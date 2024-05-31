@@ -1,0 +1,2 @@
+# checkDir
+to create exe
